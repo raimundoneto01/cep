@@ -1,0 +1,15 @@
+.input-cep{
+    outline: none;
+    border-radius: 8px;
+    padding: 4px 8px;
+    border: 1px solid black;
+}
+.btn{
+    border: none;
+    color: white;
+    background-color: blue;
+    padding:  6px 8px;
+    border-radius: 6px;
+    font-weight: bolder;
+    cursor: pointer;
+}
